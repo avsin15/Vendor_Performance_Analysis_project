@@ -1,1 +1,13 @@
+Dataset for performing analysis on Vendor's performance is divided in six csv files:
+1.begin_inventory
+2.end_inventory
+3.purchase_prices
+4.purchases
+5.sales
+6.vendor_invoice
 
+#Due to the large size of some files the dataset cannot be directly uploaded on GitHub Repo.
+
+The dataset can be downloaded from the Google Drive Link mentioned below:
+
+https://drive.google.com/drive/folders/19UGwPAsgylk_FxVTCeC6M9k6y3eNzCrl?usp=share_link
